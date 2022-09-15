@@ -29,8 +29,8 @@ export default function Sobre() {
                         Operando desde 2009 para a produção final do sorvete. Vendemos tanto para varejo como para atacado.
                     </p>
                     <p>
-                        Nossos clientes podemo comprar os nossos sorvetes e degustar na nossa loja ou levar para sua residência e aproveitar junto com sua família.
-                        Também vendemos para esrtabelecimentos e criamos eventos como festas de aniversário, formaturas e eventos empresariais. Para contratar nossos serviços, basta entrar em contato conosco. Iremos proporcionar o melhor atendimento e os melhores produtos para voc~e fazer a sua festa mais saborosa, com o melhor sorvete da cidade.
+                        Nossos clientes podem comprar os nossos sorvetes e degustar na nossa loja ou levar para sua residência e aproveitar junto com sua família.
+                        Também vendemos para estabelecimentos e criamos eventos, como festas de aniversário, formaturas e eventos empresariais. Para contratar nossos serviços, basta entrar em contato conosco. Iremos proporcionar o melhor atendimento e os melhores produtos para você fazer a sua festa mais saborosa, com o melhor sorvete da cidade.
                     </p>
                 </div>
             </section>
