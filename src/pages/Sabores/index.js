@@ -21,7 +21,7 @@ const Home = () => (
 
         <main className="lg:my-20 xl:my-20 2lg:my-20 p-6">
 
-            <h2 className='font-bold text-2xl mb-6'>SABORES DE SORVERTE</h2>
+            <h2 className='font-bold text-2xl mb-6'>SABORES DE SORVETE</h2>
             <section className="space-y-7 md:flex md:flex-col md:items-center">
 
                 <div className="space-y-6 flex flex-col justify-center items-center px-10 lg:flex-row lg:space-x-12 lg:space-y-0 xl:flex-row xl:space-x-12 xl:space-y-0 2xl:flex-row 2xl:space-x-12 2xl:space-y-0">
@@ -41,7 +41,7 @@ const Home = () => (
                     <div className='md:w-3/4 h-64 shadow-special flex flex-col justify-center items-center px-10 lg:h-96 xl:h-96 2xl:h-96 lg:w-60'>
                         <img src={Avela} alt="Oreo" className="w-40" />
                         <h3 className='font-bold text-lg mb-5 text-slate-900'>Sorvete de Avelã</h3>
-                        <p>O nosso melhor sorvete. Voc~e vai adorar o sabor.</p>
+                        <p>O nosso melhor sorvete. Você vai adorar o sabor.</p>
                     </div>
 
                 </div>
