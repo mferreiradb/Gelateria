@@ -19,7 +19,7 @@ const Home = () => (
             <h1 className='h-screen leading-normal text-white fundo-sabores flex items-center justify-center text-6xl font-bold'>Nossos Sabores</h1>
         </section>
 
-        <main className="lg:my-20 xl:my-20 2lg:my-20 p-6">
+        <main className="lg:my-20 xl:my-20 2lg:my-20 py-20 px-8">
 
             <h2 className='font-bold text-2xl mb-6'>SABORES DE SORVETE</h2>
             <section className="space-y-7 md:flex md:flex-col md:items-center">
