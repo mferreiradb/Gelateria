@@ -25,7 +25,7 @@ const Home = () => (
                 <div className='flex flex-col justify-center items-center md:w-full lg:w-2/4 xl:w-2/4 2xl:w-2/4 py-20 px-16'>
                     <h2 className='font-bold text-2xl mb-1'>NOSSOS SABORES</h2>
                     <h3 className='font-bold text-lg mb-5 text-slate-900'>Novos e deliciosos!</h3>
-                    <p>Sorvete bom é aquele feito com os melhores ingredientes! Aqui na gelateria todos os nossos produtos ssão naturais, à base de frutas e sem nenhu8m conservante! Também temos opções sem lactose e sem açucar. Venha conhecer como o sorvete ser delicioso e saudável ao mesmo tempo!</p>
+                    <p>Sorvete bom é aquele feito com os melhores ingredientes! Aqui na Gelateria todos os nossos produtos são naturais, à base de frutas e sem nenhum conservante! Também temos opções sem lactose e sem açúcar. Venha conhecer como o sorvete pode ser delicioso e saudável ao mesmo tempo!</p>
                 </div>
             </section>
 
@@ -47,7 +47,7 @@ const Home = () => (
                 <div className='flex flex-col justify-center items-center md:w-full lg:w-2/4 xl:w-2/4 2xl:w-2/4 py-20 px-16'>
                     <h2 className='font-bold text-2xl mb-1'>SOBRE NÓS</h2>
                     <h3 className='font-bold text-lg mb-5 text-slate-900'>Alegria em cada casquinha!</h3>
-                    <p>Venha tomar o melhor sorvete da região aqui com a gente! Nós estamos há anos no mercado produzindo o que tem de melhor para o nosso cliente e você não pode ficar fora dessa. Venha nos fazer uma visita e aproveite o melhor atendimento e o melhor sorvete da cidade</p>
+                    <p>Venha tomar o melhor sorvete da região aqui com a gente! Nós estamos há anos no mercado produzindo o que tem de melhor para o nosso cliente e você não pode ficar fora dessa. Venha nos fazer uma visita e aproveite o melhor atendimento e o melhor sorvete da cidade!</p>
                 </div>
             </section>
         </main>
