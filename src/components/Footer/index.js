@@ -19,7 +19,7 @@ const Footer = () => (
                 <p className='text-white'>Tel: (11) 3456-7890</p>
             </div>
             <div>
-                <h2 className='text-white font-bold text-xl mb-2'>HORÁROOS</h2>
+                <h2 className='text-white font-bold text-xl mb-2'>HORÁRIOS</h2>
                 <p className='text-white'>ABERTO TODOS OS DIAS</p>
                 <p className='text-white'>10:00 - 22:00</p>
             </div>
