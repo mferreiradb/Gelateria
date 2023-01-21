@@ -27,7 +27,7 @@ const Footer = () => (
 
         <div className='pt-16'>
             <p className='text-white'>Gelateria. Orgulhosamente desenvolvido por</p>
-            <p className='text-white'><a href='https://meu-site-opal.vercel.app'>Mauricio Ferreira</a></p>
+            <p className='text-white'><a href='https://meu-site-opal.vercel.app' target='_blank' className='decoration-auto'>Mauricio Ferreira</a></p>
         </div>
 
     </footer>
